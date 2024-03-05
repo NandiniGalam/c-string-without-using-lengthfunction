@@ -1,0 +1,1 @@
+# c-string-without-using-lengthfunction
